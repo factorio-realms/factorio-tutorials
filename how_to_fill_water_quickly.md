@@ -6,11 +6,12 @@ Hi friends, welcome to [factorio-realms.com][1].
 Do you like to make solar farms? Do you hate water thwarting you?
 Today I will show you how to fill water quickly without mods.
 
-The secret is 'Numpad +'.
+The secret is `Numpad +`.
+
 Ya, in a secret version, factorio updated and added this feature.
 And without any release note. (Or maybe I just miss it, :p)
 
-Pick up landfill, and then press 'Numpad +' and 'Numpad +' and 'Numpad +'...
+Pick up landfill, and then press `Numpad +` and `Numpad +` and `Numpad +`...
 
 Now, it's like this~
 
