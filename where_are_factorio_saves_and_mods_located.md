@@ -13,10 +13,17 @@ Depending on the version you installed. These directories are in the different p
 You can try following directories.
 
 * Steam version: `%appdata%\Factorio`
-* Installer version: `%userprofile%\AppData\Factorio`
+* Installer version: `%appdata%\Factorio`
 * Portable version: `<your_factorio_dir>`
 
 To open these folders quickly, just press Win+R and fill the address above.
+
+If you still cannot found these directories, try to run factorio.
+And then, press Ctrl+Shift+Esc.
+Find factorio in processes tabs(Windows 7/8.1) or details tab(Window 10).
+Right click on factorio process, then click `Open file location`.
+Go up and go up again, you will see a directory or shortcut named saves. Just open it.
+Mods directory is also there.
 
 ### Linux
 
@@ -27,4 +34,3 @@ To open it quickly, just open file browser such as nautilus or dolphin, then pre
 ### MacOS
 
 `~/Library/Application Support/factorio`
-
