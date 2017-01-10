@@ -20,11 +20,11 @@ To open these folders quickly, just press Win+R and fill the address above.
 
 ### Linux
 
-~/.factorio
+`~/.factorio`
 
 To open it quickly, just open file browser such as nautilus or dolphin, then press Ctrl+L to jump to navigation bar.
 
 ### MacOS
 
-~/Library/Application Support/factorio
+`~/Library/Application Support/factorio`
 
