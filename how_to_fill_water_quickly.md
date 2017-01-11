@@ -1,8 +1,6 @@
-title: How to fill water quickly
-desc: Do you like to make solar farms? Do you hate water thwarting you? Today I will show you how to fill water quickly without mods.
-date: 2017-01-11T08:54:41+0800
-author: pjincz
-tags: factorio factorio-realms waterfill solar-farm
+[date]: meta "2017-01-11T08:54:41+0800"
+[author]: meta "pjincz"
+[tags]: meta "factorio factorio-realms waterfill solar-farm"
 
 
 How to fill water quickly
