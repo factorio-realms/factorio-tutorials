@@ -19,12 +19,13 @@ You can try following directories.
 
 To open these folders quickly, just press Win+R and fill the address above.
 
-If you still cannot found these directories, try to run factorio.
-And then, press Ctrl+Shift+Esc.
-Find factorio in processes tabs(Windows 7/8.1) or details tab(Window 10).
-Right click on factorio process, then click `Open file location`.
-Go up and go up again, you will see a directory or shortcut named saves. Just open it.
-Mods directory is also there.
+If you still cannot found these directories:
+1. Run factorio.
+2. Press Ctrl+Shift+Esc.
+3. Find factorio in processes tabs(Windows 7/8.1) or details tab(Window 10).
+4. Right click on factorio process, then click `Open file location`.
+5. Go up and go up again, you will see a directory or shortcut named saves. Just open it.
+6. Mods directory is also there.
 
 ### Linux
 
