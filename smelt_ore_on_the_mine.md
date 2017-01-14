@@ -9,30 +9,30 @@ Smelt ore on the mine
 Hi friends, welcome to [factorio-realms.com][1].
 
 Still hesitating to build a smelting center or smelt near the mine?
-Ya, now you have a new option. :p Why not smelt it on the mine?
+Now we present you a new option: smelting on the mine itself!
 
 ![Overview of smelt on the mine][jpg-1]
 
 Why?
 ----
 
-It's really convenient. By this way, you only need one blueprint.
+It is convenient and time efficient. One blueprint is all you need to mass produce this setup.
 
 Pros.
 -----
 
-* Convenient: Only need one blueprint, and get plates directly.
-* Good for Easily Stage: All equipment can by found in early stage.
-* Smooth Upgrade: Can use stone furnace first, then upgrade to steel furnace.
-* Petty Layout: There's no pretty layout for steel furnace.
+* Convenient: You only need 1 blueprint for setup and can obtain plates directly.
+* Good for Early Stage: All equipments are available in early stage.
+* Smooth Upgrade: You can use stone furnace at the start and later on replace it with steel furnace.
+* Tidy layout: You don't get a tidy layout of furnaces everyday.
 
 Cons.
 -----
 
-* Low Efficiency: Only 45% coverage of drill (compare to 85% in radical layout)
+* Low Efficiency: Only 45% coverage of drill (comparing to 85% in radical layout)
 * Cannot Use Modules: Steel furnace do not support modules.
 * Cannot Use Bacon: There's no space for bacon.
-* Need fuel: I don't like fuel....
+* Need fuel: Extra belts, inserters and mines to provide for fuel usage.
 
 Layout
 ------
@@ -55,7 +55,7 @@ If you are so lazy.... :p..
     RTqaeOrU7L5BFr9zRHoZY0Lecl/cxGWcXEV2yLFyNP6TAWvSVv
     WzT4Ymy7dMRmXMfR+9DWcPHPfqcDkDmW8SCTH89AMAAA==
 
-That's all.
+Enjoy.
 
 [1]: https://factorio-realms.com
 [jpg-1]: https://raw.githubusercontent.com/factorio-realms/factorio-tutorials/master/assets/smelt_ore_on_the_mine/overview.jpg
