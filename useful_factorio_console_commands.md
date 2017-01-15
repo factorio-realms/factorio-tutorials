@@ -197,7 +197,7 @@ battery-mk2-equipment, exoskeleton-equipment, personal-roboport-equipment
 * robot: logistic-robot, construction-robot
 * hidden items: loader, fast-loader, express-loader, railgun, railgun-dart
 
-Get a whole set mk2 quickly:
+Get whole set of mk2 quickly:
 
     # copy all following command and paste to console
     /c game.player.get_inventory(defines.inventory.player_armor).insert({name='power-armor-mk2', count=1})
