@@ -1,6 +1,7 @@
 [date]: meta "2017-01-15T05:51:08+0800"
 [author]: meta "pjincz"
 [tags]: meta "factorio console for-beginer for-game-master"
+[updated]: meta "2017-01-15T09:56:18+0800"
 
 Useful factorio console commands
 ================================
@@ -181,6 +182,40 @@ Receive an item:
     /c game.player.insert{name='item-name', count=COUNT}
     # for example
     /c game.player.insert{name='power-armor-mk2', count=10}
+
+Names of commonly used items:
+
+* armor: power-armor-mk2, fusion-reactor-equipment, energy-shield-mk2-equipment, 
+battery-mk2-equipment, exoskeleton-equipment, personal-roboport-equipment
+* weapon: combat-shotgun, piercing-shotgun-shell, flame-thrower, flame-thrower-ammo, laser-turret
+* materials: raw-wood, coal, iron-plate, copper-plate, steel-plate, plastic-bar, battery
+* circuit: electronic-circuit, advanced-circuit, processing-unit
+* engine: engine-unit, electric-engine-unit
+* science pack: science-pack-1, science-pack-2, science-pack-3, alien-science-pack
+* fuel: raw-wood, coal, solid-fuel, rocket-fuel
+* rocket: rocket-silo, low-density-structure, rocket-fuel, rocket-control-unit, satellite
+* robot: logistic-robot, construction-robot
+* hidden items: loader, fast-loader, express-loader, railgun, railgun-dart
+
+Get a whole set mk2 quickly:
+
+    # copy all following command and paste to console
+    /c game.player.get_inventory(defines.inventory.player_armor).insert({name='power-armor-mk2', count=1})
+    armor = game.player.get_inventory(defines.inventory.player_armor).find_item_stack('power-armor-mk2')
+    armor.grid.put{name='fusion-reactor-equipment'}
+    armor.grid.put{name='fusion-reactor-equipment'}
+    armor.grid.put{name='energy-shield-mk2-equipment'}
+    armor.grid.put{name='energy-shield-mk2-equipment'}
+    armor.grid.put{name='exoskeleton-equipment'}
+    armor.grid.put{name='exoskeleton-equipment'}
+    armor.grid.put{name='exoskeleton-equipment'}
+    armor.grid.put{name='exoskeleton-equipment'}
+    armor.grid.put{name='exoskeleton-equipment'}
+    armor.grid.put{name='personal-roboport-equipment'}
+    armor.grid.put{name='personal-roboport-equipment'}
+    armor.grid.put{name='personal-roboport-equipment'}
+    armor.grid.put{name='personal-roboport-equipment'}
+    armor.grid.put{name='personal-roboport-equipment'}
 
 Team
 ----
