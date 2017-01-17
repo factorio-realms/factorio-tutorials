@@ -17,7 +17,7 @@ At first, we almost given up. Because drill only have 25 tiles area.
 And we need at least: 1 drill + 2 funnaces + 4 inserters + 1 hole =
 9 + 8 + 4 + 1 = 22 tiles. And there only 3 tiles for belts.
 
-:P, but we are so boring. After many tries, we got it:
+:P, but we are so boring. After many and many tries, we got it:
 
 ![Smelt steel on the mine][screenshot]
 
@@ -37,4 +37,5 @@ And we need at least: 1 drill + 2 funnaces + 4 inserters + 1 hole =
 Enjoy.
 
 [homepage]: https://factorio-realms.com
+[prev-article]: https://factorio-realms.com/tutorials/smelt_ore_on_the_mine
 [screenshot]: https://raw.githubusercontent.com/factorio-realms/factorio-tutorials/master/assets/smelt_steel_on_the_mine/screenshot.jpg
