@@ -217,8 +217,8 @@ Get whole set of mk2 quickly:
     armor.grid.put{name='personal-roboport-equipment'}
     armor.grid.put{name='personal-roboport-equipment'}
 
-Team
-----
+Multiplayer
+-----------
 
 ### List all teams
 
