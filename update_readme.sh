@@ -8,7 +8,7 @@ find . -iname '*.md' | while read line; do
 		continue
 	fi
 	TITLE=`cat "$line"  | grep '===' -B 1 | head -1`
-	echo "[$TITLE][$URL]" >> README.md
+	echo "* [$TITLE][$URL]" >> README.md
 done
 
 echo >> README.md
