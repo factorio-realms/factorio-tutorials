@@ -38,6 +38,6 @@ To open it quickly, just open file browser such as nautilus or dolphin, then pre
 
 `~/Library/Application Support/factorio`
 
-*Original Post: [https://factorio-realms.com/tutorials/where_are_factorio_saves_and_mods_located]()*
+*Original Post: [https://factorio-realms.com/tutorials/where_are_factorio_saves_and_mods_located](https://factorio-realms.com/tutorials/where_are_factorio_saves_and_mods_located)*
 
 [homepage]: https://factorio-realms.com

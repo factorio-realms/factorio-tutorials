@@ -27,5 +27,6 @@ find . -iname '*.md' | while read line; do
 	if [ "$URL" = "README" ]; then
 		continue
 	fi
-	sed -i "s#@ORIGINAL@#*Original Post: [https://factorio-realms.com/tutorials/$URL]()*#" "$line"
+	FURL=https://factorio-realms.com/tutorials/$URL
+	sed -i "s#@ORIGINAL@#*Original Post: [$FURL]($FURL)*#" "$line"
 done

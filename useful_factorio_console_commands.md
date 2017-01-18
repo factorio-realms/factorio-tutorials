@@ -345,6 +345,6 @@ Show map seed:
 
     /c game.player.print(game.player.surface.map_gen_settings.seed)
 
-*Original Post: [https://factorio-realms.com/tutorials/useful_factorio_console_commands]()*
+*Original Post: [https://factorio-realms.com/tutorials/useful_factorio_console_commands](https://factorio-realms.com/tutorials/useful_factorio_console_commands)*
 
 [homepage]: https://factorio-realms.com
