@@ -34,6 +34,8 @@ Just change it. :p
 
 That's all.
 
+*Original Post: [https://factorio-realms.com/tutorials/how_to_fill_water_quickly]()*
+
 [1]: https://factorio-realms.com
 [jpg-1]: https://raw.githubusercontent.com/factorio-realms/factorio-tutorials/master/assets/how_to_fill_water_quickly/1.jpg
 [jpg-2]: https://raw.githubusercontent.com/factorio-realms/factorio-tutorials/master/assets/how_to_fill_water_quickly/2.jpg

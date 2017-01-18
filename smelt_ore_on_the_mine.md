@@ -57,6 +57,8 @@ If you are so lazy.... :p..
 
 Enjoy.
 
+*Original Post: [https://factorio-realms.com/tutorials/smelt_ore_on_the_mine]()*
+
 [1]: https://factorio-realms.com
 [jpg-1]: https://raw.githubusercontent.com/factorio-realms/factorio-tutorials/master/assets/smelt_ore_on_the_mine/overview.jpg
 [jpg-2]: https://raw.githubusercontent.com/factorio-realms/factorio-tutorials/master/assets/smelt_ore_on_the_mine/unit.jpg

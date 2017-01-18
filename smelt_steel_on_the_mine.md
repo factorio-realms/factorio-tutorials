@@ -36,6 +36,8 @@ And we need at least: 1 drill + 2 funnaces + 4 inserters + 1 hole =
 
 Enjoy.
 
+*Original Post: [https://factorio-realms.com/tutorials/smelt_steel_on_the_mine]()*
+
 [homepage]: https://factorio-realms.com
 [prev-article]: https://factorio-realms.com/tutorials/smelt_ore_on_the_mine
 [screenshot]: https://raw.githubusercontent.com/factorio-realms/factorio-tutorials/master/assets/smelt_steel_on_the_mine/screenshot.jpg

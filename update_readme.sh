@@ -21,3 +21,11 @@ find . -iname '*.md' | while read line; do
 	TITLE=`cat "$line"  | grep '===' -B 1 | head -1`
 	echo "[$URL]: https://factorio-realms.com/tutorials/$URL" >> README.md
 done
+
+find . -iname '*.md' | while read line; do
+	URL=`echo $line | sed 's/\.md$//; s/^\.\///'`
+	if [ "$URL" = "README" ]; then
+		continue
+	fi
+	sed -i "s#@ORIGINAL@#*Original Post: [https://factorio-realms.com/tutorials/$URL]()*#" "$line"
+done

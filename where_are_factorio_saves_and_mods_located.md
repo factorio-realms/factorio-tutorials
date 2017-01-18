@@ -7,6 +7,8 @@
 Where are factorio saves and mods located?
 ==========================================
 
+Hi friends, welcome to [factorio-realms.com][homepage].
+
 ### Windows
 
 Depending on the version you installed. These directories are in the different positions.
@@ -35,3 +37,7 @@ To open it quickly, just open file browser such as nautilus or dolphin, then pre
 ### MacOS
 
 `~/Library/Application Support/factorio`
+
+*Original Post: [https://factorio-realms.com/tutorials/where_are_factorio_saves_and_mods_located]()*
+
+[homepage]: https://factorio-realms.com
