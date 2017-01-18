@@ -1,7 +1,7 @@
 [date]: meta "2017-01-15T05:51:08+0800"
 [author]: meta "pjincz"
 [tags]: meta "factorio console for-beginer for-game-master"
-[updated]: meta "2017-01-15T09:56:18+0800"
+[updated]: meta "2017-01-18T09:43:33+0800"
 
 Useful factorio console commands
 ================================
@@ -259,6 +259,31 @@ Unlock all technology
 
 Map
 ---
+
+### Peaceful Mode
+
+Enable peaceful mode
+
+    /c game.player.surface.peaceful_mode = true
+
+Disable peaceful mode
+
+    /c game.player.surface.peaceful_mode = false
+
+### Regenerate resource
+
+Regenerate coal:
+
+    /c game.player.surface.regenerate_entity('coal')
+
+Regenerate all basic resource:
+
+    /c game.player.surface.regenerate_entity({'coal','stone','iron-ore','copper-ore'})
+
+Regenerate crude oil:
+
+    /c game.player.surface.regenerate_entity('crude-oil')
+    # NOTICE: new resource may not at old place
 
 ### Chart
 
