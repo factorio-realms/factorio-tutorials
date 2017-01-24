@@ -1,7 +1,7 @@
 [date]: meta "2017-01-15T05:51:08+0800"
 [author]: meta "pjincz"
 [tags]: meta "factorio console for-beginer for-game-master"
-[updated]: meta "2017-01-18T09:43:33+0800"
+[updated]: meta "2017-01-24T14:48:47+0800"
 
 Useful factorio console commands
 ================================
@@ -186,7 +186,7 @@ Receive an item:
 Names of commonly used items:
 
 * armor: power-armor-mk2, fusion-reactor-equipment, energy-shield-mk2-equipment, 
-battery-mk2-equipment, exoskeleton-equipment, personal-roboport-equipment
+battery-mk2-equipment, exoskeleton-equipment, personal-roboport-equipment, night-vision-equipment
 * weapon: combat-shotgun, piercing-shotgun-shell, flame-thrower, flame-thrower-ammo, laser-turret
 * materials: raw-wood, coal, iron-plate, copper-plate, steel-plate, plastic-bar, battery
 * circuit: electronic-circuit, advanced-circuit, processing-unit
@@ -194,7 +194,8 @@ battery-mk2-equipment, exoskeleton-equipment, personal-roboport-equipment
 * science pack: science-pack-1, science-pack-2, science-pack-3, alien-science-pack
 * fuel: raw-wood, coal, solid-fuel, rocket-fuel
 * rocket: rocket-silo, low-density-structure, rocket-fuel, rocket-control-unit, satellite
-* robot: logistic-robot, construction-robot
+* robot: logistic-robot, construction-robot, blueprint, blueprint-book,
+deconstruction-planner, roboport, personal-roboport-equipment
 * hidden items: loader, fast-loader, express-loader, railgun, railgun-dart
 
 Get whole set of mk2 quickly:
